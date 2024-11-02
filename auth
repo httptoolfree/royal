@@ -1,12 +1,12 @@
 {
-  "id": 666,
+  "id": 531178,
   "email": "3******3@gmail.com",
   "emailConfirmed": true,
-  "username": "666",
+  "username": "Gruta",
   "avatar": "",
   "avatarBorderTier": 5,
   "reputationGemTier": 2,
-  "premiumTier": "Premium",
+  "premiumTier": "Author",
   "hasPassword": false,
   "premiumExpiration": "2029-11-01T11:29:24",
   "age": null
